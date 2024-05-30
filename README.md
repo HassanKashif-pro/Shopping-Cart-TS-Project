@@ -3,3 +3,7 @@ This is a New TS Project, Not a MERN stack instead its just a project using TS t
 ---
 
 Set up some vite boiler plate code.
+________
+
+# Problems Faced:
+*## Hookes in react
