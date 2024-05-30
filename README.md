@@ -6,4 +6,5 @@ Set up some vite boiler plate code.
 ________
 
 # Problems Faced:
-*## Hookes in react
+## * Hookes in react:
+I was not femiliar with hooks like useContext and many more I knew what other most commonly used hooks were which I have worked with, but the other hooks which i have yet to work with I haven't even touhed yet so now I Learn the Hooks in react.
